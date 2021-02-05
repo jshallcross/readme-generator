@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A professional Read Me generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshallcross/readme-generator.git"
+  },
+  "keywords": [
+    "Readme",
+    "Generator"
+  ],
+  "author": "Jon Shallcross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshallcross/readme-generator/issues"
+  },
+  "homepage": "https://github.com/jshallcross/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
