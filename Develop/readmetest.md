@@ -1,8 +1,13 @@
-# Generator
+# undefined  
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+
 
 ## Description
 ---
-You can enrich your comments by using Markdown syntax. Code and formulas can be formatted with PaperHive 
+undefined
 ## Table of Contents
 ---
 * [Installation](#installation)
@@ -14,25 +19,31 @@ You can enrich your comments by using Markdown syntax. Code and formulas can be 
 
 ## Installation
 ---
-It's very easy to make some words italic and other words bold. Any word wrapped with two tildes (like this) will appear crossed ou
+undefined
 ## Usage
 ---
-Paragraphs are separated by a blank line.
+undefined
 ## Contributions
 ---
-This is another paragraph.fwe
+undefined
 ## Testing
 ---
-Paragraphs are separated by a blank line.
+undefined
 
 ## Questions
 ---
-This is another paragraph.jshall
-jshall
+GitHub profile (https://github.com/undefined)   
+
+undefined
 
 
 
----
+
+## License  
+Copyright 2021 undefined
+
+
+
 
 
 

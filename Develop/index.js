@@ -7,7 +7,7 @@ const inquirer = require('inquirer');
 
 // TODO: Create an array of questions for user input
 const questions = [
-    {
+   /* {
         type: 'input',
         name: 'projectName',
         message: 'What is the name of your project?(Required)',
@@ -62,6 +62,12 @@ const questions = [
         type: 'input',
         name: 'email',
         message: 'Lastly, please enter your email address.'
+    }*/
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What type of license would you like to use?',
+        choices: ['MIT', 'ISC', 'Mozilla']
     }
 
 ];
