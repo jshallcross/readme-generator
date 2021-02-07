@@ -88,6 +88,7 @@ const writeFile = fileContent => {
                 message: 'Readme done!'
             });
         });
+        console.log("Your new ReadMe is complete!");
     });
 }
 
