@@ -2,6 +2,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Grading Requirements
+--- 
+Below is the link to the video of the working application.   
+
+You Tube link: (https://youtu.be/3f2y8TK8Vlo)   
+
+Below is the screenshot of the Read Me from the video.  
+
+
+![Screenshot of ReadMe](./grading-video/example-readme.png)
 ## Description
 ---
 User input automatically generates a ReadMe file.
@@ -32,3 +42,5 @@ Any questions can be directed to jshallcross1@icloud.com
 ## GitHub
 ---   
 GitHub: [jshallcross](https://github.com/jshallcross)
+
+
