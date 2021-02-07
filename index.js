@@ -35,6 +35,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'screenshot',
+        message: 'Please enter the path for your screenshot image.(Ex. "../images/screenshot.png")'
+    },
+    {
+        type: 'input',
         name: 'contribution',
         message: 'Please explain any contribution guidelines.'
     },
@@ -59,7 +64,7 @@ const questions = [
     {
         type: 'input',
         name: 'email',
-        message: 'Lastly, please enter your email address.'
+        message: 'Please enter your email address.'
     },
     {
         type: 'list',

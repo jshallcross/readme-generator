@@ -29,7 +29,7 @@ function renderLicenseSection(data) {
 --- 
 ${licenseSection}  
 
-Copyright ${new Date().getFullYear()} ${data.github}
+Copyright ${new Date().getFullYear()} [${data.github}](https://github.com/${data.github})
 
 `
 };
@@ -61,7 +61,8 @@ ${data.install}
 
 ## Usage
 ---
-${data.usage}  
+${data.usage}   
+![Screenshot of Application](${data.screenshot})  
 
 ## Contributions
 ---
